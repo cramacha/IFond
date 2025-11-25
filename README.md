@@ -6,7 +6,7 @@ This repository contains a Python implementation of the iFond (Information Fact 
 2.  **Selection of Significant Variables (Dimensionality Reduction)**
 3.  **Application of Data-Driven Models (Classification-Association Rules)**
 
-# 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -16,11 +16,11 @@ You need a standard Python environment with the following libraries:
 pip install numpy pandas scikit-learn
 ```
 
-### File Structure
+## File Structure
 
 The entire framework is contained within a single Python file, typically named `ifond_framework.py`.
 
-## ⚙️ How to Run the Code
+## How to Run the Code
 
 The main execution pipeline is included in the `ifond_framework.py` file under the `if __name__ == '__main__':` block, running on a set of dummy text and numerical data.
 
@@ -56,7 +56,7 @@ Accuracy: 1.00 (Note: Based on structural substitutes)
 ==============================================
 ```
 
-## 🧩 Framework Components
+## Framework Components
 
 The framework is implemented using modular functions and classes as below.
 
