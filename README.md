@@ -1,10 +1,6 @@
-This README provides documentation for the structural Python implementation of the iFond framework, which is based on the paper "Misinformation detection using hybrid statistical and machine learning techniques."
+# iFond - Repository Details 
 
------
-
-# iFond Misinformation Detection Framework (Structural Implementation)
-
-This repository contains a structural Python implementation of the **iFond** (Information Fact Checker from Online News Data) framework. The code follows the three-principal steps outlined in the research paper:
+This repository contains a Python implementation of the iFond (Information Fact Checker from Online News Data) framework. The code follows the three-principal steps outlined in the research paper:
 
 1.  **Data Preparation (Imputation)**
 2.  **Selection of Significant Variables (Dimensionality Reduction)**
